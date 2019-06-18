@@ -16,7 +16,7 @@ Perceptron performance:
 
 ![percep1](images/percep-1.png)     
 
-![percep1-1](images/percep-1-1.png)      
+![percep1-1](images/percept-1-1.png)      
 
 
 Naive Bayes classifier performance:  
