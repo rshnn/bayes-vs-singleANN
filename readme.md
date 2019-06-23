@@ -6,7 +6,7 @@ This project experiments with the limtations of strengths of two powerful learni
 
 ---- 
 
-##The sampled datasets.
+## The sampled datasets.
 
 Simple:  
 ![simple_dataset](images/simple-dataset.png)      
