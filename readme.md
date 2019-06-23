@@ -12,7 +12,7 @@ The sampled dataset.
 ![sampled1_2](images/sam1.png)    
    
 
-Perceptron performance: 
+Perceptron performance on simpler dataset: 
 
 ![percep1](images/percep-1.png)     
 
