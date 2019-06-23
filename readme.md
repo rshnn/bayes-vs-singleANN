@@ -6,11 +6,11 @@ This project experiments with the limtations of strengths of two powerful learni
 
 ---- 
 
-The sampled datasets.
+##The sampled datasets.
 
 Simple:  
 ![simple_dataset](images/simple-dataset.png)      
-![simple_dataset_plots](images/simple-histo.png)     
+![simple_dataset_plots](images/simple_histo.png)     
 
  
 Complex with overlap:    
@@ -20,7 +20,7 @@ Complex with overlap:
 ![sampled1_2](images/sam1.png)    
    
 
-Perceptron performance on simpler dataset: 
+## Perceptron performance on simpler dataset: 
 
 ![percep1-1](images/percept-1-1.png)      
 ![percep1](images/percep-1.png)   
@@ -29,7 +29,7 @@ Perceptron performance on simpler dataset:
 ![percep_hard_1_error](images/percep_hard_1_error.png)    
 
 
-Naive Bayes classifier performance:  
+## Naive Bayes classifier performance:  
 
 
 ![naive](images/naive.png)      
