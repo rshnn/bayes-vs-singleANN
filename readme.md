@@ -22,10 +22,10 @@ Complex with overlap:
 
 ## Perceptron performance on simpler dataset: 
 
-![percep1-1](images/percept-1-1.png)      
 ![percep1](images/percep-1.png)   
+![percep1-1](images/percept-1-1.png)      
 
-![percep_hard_1](images/percep_hard-1.png)    
+![percep_hard_1](images/percep-hard-1.png)    
 ![percep_hard_1_error](images/percep_hard_1_error.png)    
 
 
